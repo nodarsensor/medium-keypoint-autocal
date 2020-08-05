@@ -1,0 +1,1 @@
+imgs/left_001.png imgs/right_001.png
